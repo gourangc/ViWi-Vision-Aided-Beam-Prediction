@@ -15,18 +15,18 @@ The Code folder contains the following files and directories:
 1. `build_net.py`: Python script for building the DL model.
 2. `data_feed.py`: Python script for data feeding and preprocessing.
 3. `drone_image_beam_data_BS1.csv`: CSV file containing the BS1 dataset.
-• `drone_image_beam_data_BS1_test.csv`: CSV file containing the test data for the BS1 dataset.
-• `drone_image_beam_data_BS1_train.csv`: CSV file containing the training data for the BS1 dataset.
-• `drone_image_beam_data_BS1_val.csv`: CSV file containing the validation data for the BS1 dataset.
-• `drone_image_beam_data_BS2.csv`: CSV file containing the BS2 dataset.
-• `drone_image_beam_data_BS2_test.csv`: CSV file containing the test data for the BS2 dataset.
-• `drone_image_beam_data_BS2_train.csv`: CSV file containing the training data for the BS2 dataset.
-• `drone_image_beam_data_BS2_val.csv`: CSV file containing the validation data for the BS2 dataset.
-• `main_beam_BS1.py`: Python script for training and saving the checkpoint files for the BS1 dataset.
-• `main_beam_BS2.py`: Python script for training and saving the checkpoint files for the BS2 dataset.
-• `main_beam_eval_BS1.py`: Python script for evaluating the BS1 dataset.
-• `main_beam_eval_BS2.py`: Python script for evaluating the BS2 dataset.
-• `train_val_test_split.py`: Python script for splitting the main CSV files into train, validation, and test CSV files.
+4. `drone_image_beam_data_BS1_test.csv`: CSV file containing the test data for the BS1 dataset.
+5. `drone_image_beam_data_BS1_train.csv`: CSV file containing the training data for the BS1 dataset.
+6. `drone_image_beam_data_BS1_val.csv`: CSV file containing the validation data for the BS1 dataset.
+7. `drone_image_beam_data_BS2.csv`: CSV file containing the BS2 dataset.
+8. `drone_image_beam_data_BS2_test.csv`: CSV file containing the test data for the BS2 dataset.
+9. `drone_image_beam_data_BS2_train.csv`: CSV file containing the training data for the BS2 dataset.
+10. `drone_image_beam_data_BS2_val.csv`: CSV file containing the validation data for the BS2 dataset.
+11. `main_beam_BS1.py`: Python script for training and saving the checkpoint files for the BS1 dataset.
+12. `main_beam_BS2.py`: Python script for training and saving the checkpoint files for the BS2 dataset.
+13. `main_beam_eval_BS1.py`: Python script for evaluating the BS1 dataset.
+14. `main_beam_eval_BS2.py`: Python script for evaluating the BS2 dataset.
+15. `train_val_test_split.py`: Python script for splitting the main CSV files into train, validation, and test CSV files.
 
 **Directories:**
 • `saved_folder`: Directory containing the saved checkpoint files for the training sessions.
