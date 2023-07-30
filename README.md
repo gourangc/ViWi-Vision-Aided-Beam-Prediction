@@ -12,9 +12,9 @@ The scripts for generating the results of the ML solutions in the paper. This sc
 The Code folder contains the following files and directories:
 
 **Files:**
-• `build_net.py`: Python script for building the DL model.
-• `data_feed.py`: Python script for data feeding and preprocessing.
-• `drone_image_beam_data_BS1.csv`: CSV file containing the BS1 dataset.
+1. `build_net.py`: Python script for building the DL model.
+2. `data_feed.py`: Python script for data feeding and preprocessing.
+3. `drone_image_beam_data_BS1.csv`: CSV file containing the BS1 dataset.
 • `drone_image_beam_data_BS1_test.csv`: CSV file containing the test data for the BS1 dataset.
 • `drone_image_beam_data_BS1_train.csv`: CSV file containing the training data for the BS1 dataset.
 • `drone_image_beam_data_BS1_val.csv`: CSV file containing the validation data for the BS1 dataset.
