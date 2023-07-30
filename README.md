@@ -29,7 +29,7 @@ The Code folder contains the following files and directories:
 15. `train_val_test_split.py`: Python script for splitting the main CSV files into train, validation, and test CSV files.
 
 **Directories:**
-16. `saved_folder`: Directory containing the saved checkpoint files for the training sessions.
+1. `saved_folder`: Directory containing the saved checkpoint files for the training sessions.
 
 The `data` folder contains the following directory: `images_vision_drones`: Directory containing RGB images related to the dataset.
 
